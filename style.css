@@ -1,1 +1,6 @@
-
+.bg{
+  Color: #121212;
+  Background-Colour: #121212;
+  width:content="width=device-width";
+  height:content="height=device-height"
+}
